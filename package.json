@@ -1,0 +1,20 @@
+{
+  "name": "truffle-dep-error",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel Rodriguez <anxolin@gmail.com> (https://github.com/anxolin)",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^4.1.13"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "description": ""
+}
